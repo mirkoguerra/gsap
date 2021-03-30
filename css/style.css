@@ -1,0 +1,34 @@
+/* INIZIALIZZAZIONE */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* GENERAL */
+/* div.container  {
+  overflow-x: hidden;
+} */
+/* SECTION TOP */
+section.top {
+  height: 100vh;
+  background-color: lightgrey;
+}
+/* BOX */
+section.box {
+  min-height: 100vh;
+  padding: 30px;
+}
+section.box * {
+  margin-top: 20px;
+}
+/* BOX1 */
+section.box1 {
+
+}
+img {
+  max-width: 300px;
+}
+/* BOX2 */
+section.box2 {
+  background-color: green;
+}
